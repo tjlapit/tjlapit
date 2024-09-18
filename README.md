@@ -1,6 +1,6 @@
 
 
-### Hello there 👋, my name is Kelvin Koech
+### Hello there 👋, my name is John Lapit
 
 
 I'm a  skilled professional who codes, tests, debugs, and maintains software.
