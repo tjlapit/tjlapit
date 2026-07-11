@@ -6,7 +6,7 @@ I build quantitative trading systems, alpha research pipelines, and AI-powered i
 
 ## About Me
 
-- Quantitative researcher and finance graduate from Chuka University
+- Quantitative researcher and Applied Computer Science graduate from Chuka University
 - WorldQuant BRAIN Consultant
 - Kenya National Winner and Global 2nd Runner-up in IQC 2025
 - Building BLAK Quant, an AI-powered research platform for NSE Kenya
