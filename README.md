@@ -27,6 +27,13 @@ I build quantitative trading systems, alpha research pipelines, and AI-powered i
 - 🌍 WorldQuant BRAIN Consultant
 - 📈 Creator of BLAK Quant
 
+## Featured Projects
+
+### 📈 BLAK Quant
+AI-powered quantitative research platform for the Nairobi Securities Exchange featuring alpha research, portfolio management, trade analytics, and systematic investing tools.
+### 🧠 WorldQuant Alpha Research
+Research pipeline for generating, testing, validating, and ranking quantitative alpha factors across global equity markets.
+
 
 I design quantitative research systems, develop systematic trading models, and build AI-powered investment platforms. My work combines quantitative finance, machine learning, data engineering, and software development to create practical tools for financial markets.
 
