@@ -1,6 +1,24 @@
+# Hi, I'm John Tingoi 👋
 
+**Quantitative Researcher | AI for Finance | WorldQuant BRAIN Ambassador | IQC 2025 Global 2nd Runner-up**
 
-### Hello there 👋, my name is John Lapit
+I build quantitative trading systems, alpha research pipelines, and AI-powered investment platforms focused on African and global equity markets.
+
+## About Me
+
+- Quantitative researcher and finance graduate from Chuka University
+- WorldQuant BRAIN Ambassador for Kenya
+- Kenya National Winner and Global 2nd Runner-up in IQC 2025
+- Building BLAK Quant, an AI-powered research platform for NSE Kenya
+- Interested in systematic investing, portfolio construction, alpha research, and financial machine learning
+
+## Current Focus
+
+- Building BLAK Quant
+- Developing NSE Kenya equity signals
+- Researching global quantitative alphas
+- Improving portfolio analytics and risk management
+- Expanding quantitative finance participation across Africa
 
 
 I'm a  skilled professional who codes, tests, debugs, and maintains software.
